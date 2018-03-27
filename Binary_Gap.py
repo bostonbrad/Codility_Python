@@ -1,6 +1,6 @@
 """
 Task: PermCheck
-Goal: Check whether array A is a permutation.
+Goal: Find longest sequence of zeros in binary representation of an integer.
 Website: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 -----------------------------------------------------------
 
